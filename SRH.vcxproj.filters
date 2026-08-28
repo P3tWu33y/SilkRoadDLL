@@ -45,6 +45,9 @@
     <ClInclude Include="src\utils\utils.h">
       <Filter>Source Files\utils</Filter>
     </ClInclude>
+    <ClInclude Include="src\globals.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\dllmain.cpp">
@@ -61,6 +64,9 @@
     </ClCompile>
     <ClCompile Include="src\utils\utils.cpp">
       <Filter>Source Files\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="globals.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
