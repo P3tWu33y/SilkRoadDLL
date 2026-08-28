@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+bin/
+obj/
+
+# Visual Studio C++ generated files
+*.VC.db
+*.VC.VC.opendb
+*.ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# vcpkg manifest-mode installed dependencies
+vcpkg_installed/
+
+# vcpkg classic-mode generated directories
+vcpkg/buildtrees/
+vcpkg/packages/
+vcpkg/installed/
+vcpkg/downloads/
+vcpkg/archives/
+
+# CMake generated files, if applicable
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
